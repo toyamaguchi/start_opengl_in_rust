@@ -1,2 +1,2 @@
-RustではじめるOpenGL
+Start OpenGL in Rust (RustではじめるOpenGL)
 ==================================================
